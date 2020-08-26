@@ -182,7 +182,7 @@ header>form>.send-btn-container>.send>span {
 
 .section-01 {
     width: 100%;
-    min-height: 100vh;
+    min-height: 70vh;
 }
 
 .section-01>.container {
@@ -309,7 +309,7 @@ header>form>.send-btn-container>.send>span {
 }
 
 .section-02>.container {
-    margin-top: 15%;
+    padding-top: 15%;
 }
 
 .section-02>.container>.section-header>p {
@@ -427,7 +427,7 @@ header>form>.send-btn-container>.send>span {
 }
 
 .section-04>.container {
-    margin-top: 20%;
+    padding-top: 20%;
 }
 
 .section-04>.container>.team-wrapper {
